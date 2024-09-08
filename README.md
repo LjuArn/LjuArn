@@ -14,7 +14,7 @@ This is some details for me.
 # <p align="center"> Courses from the main program in SoftUni <p>
 
 
-# Certificates 
+# <p align="center"> Certificates  <p>
 
 |**Course**|****Link****| 
 |-------|------|
