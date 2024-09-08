@@ -1,5 +1,5 @@
 ## Hi there 👋
-#   I am Lyubomir Arnaudov.
+#   I am Lyubomir Arnaudov.  😄
 
 This is some details for me.
 
