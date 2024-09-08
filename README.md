@@ -4,7 +4,7 @@
 This is some details for me.
 
 
-### GitHub Stats
+### ✨ GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LjuArn&theme=ambient_gradient&show_icons=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LjuArn&layout=compact)
 ### 🏆 GitHub Trophies 
