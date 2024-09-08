@@ -27,6 +27,6 @@ This is some details for me.
 |<a href="https://softuni.bg/trainings/1747/databases-basics-mssql-server-september-2017/internal"> Databases Basics - MS SQL Server </a> | <a href="https://softuni.bg/certificates/details/23901/477ecc1a"> Link</a> |
 |<a href="https://softuni.bg/courses/databases-advanced-entity-framework"> Databases Advanced - Entity Framework </a> | <a href="https://softuni.bg/certificates/details/49703/217cf00f"> Link</a> |
 |<a href="https://softuni.bg/trainings/1850/js-fundamentals-january-2018"> JavaScript Fundamentals </a> | <a href="https://softuni.bg/certificates/details/51647/9570106f"> Link</a> |
-|<a href="https://softuni.bg/courses/javascript-advanced"> JavaScript Advanced </a> | <a href="https://softuni.bg/certificates/details/53002/2f221978"> Link</a> |
-|<a href="https://softuni.bg/courses/javascript-applications"> JavaScript Applications </a> | <a href="https://softuni.bg/certificates/details/54725/d2412db2"> Link</a> |
+|<a href="https://softuni.bg/trainings/3212/java-fundamentals-january-2021"> Programming Fundamentals with Java - януари 2021 </a> | <a href="https://softuni.bg/certificates/details/103343/2ade675f"> CERTIFICATE</a> |
+|<a href="https://softuni.bg/trainings/3399/programming-basics-with-java-may-2021"> Programming Basics with Java - септември 2020 </a> | <a href="https://softuni.bg/certificates/details/89470/79c01fcc"> HONORABLE MENTION</a> |
 
