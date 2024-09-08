@@ -18,15 +18,12 @@ This is some details for me.
 
 |**Course**|****Link****| 
 |-------|------|
-|<a href="https://softuni.bg/trainings/1439/programming-basics-august-2016" > Programming Basics </a>   | <a href="https://softuni.bg/certificates/details/15409/8d5c6577"> Link</a> |
-|<a href="https://softuni.bg/trainings/1568/programming-fundamentals-exended-january-2017"> Programming Fundamentals - Extended  HHHHHHHHHHHHHHHHHHHHHH</a>| <a href="https://softuni.bg/certificates/details/19338/71d887b2"> Link</a> |
-|<a href="https://softuni.bg/trainings/1511/software-technologies-february-2017"> Software Technologies  </a> | <a href="https://softuni.bg/certificates/details/19170/7e207039">  Link </a> |
-|<a href="https://softuni.bg/trainings/1633/csharp-advanced-may-2017"> C# Advanced </a> | <a href="https://softuni.bg/certificates/details/21495/56612b1f"> Link</a> |
-|<a href="https://softuni.bg/trainings/1636/c-sharp-oop-basics-june-2017"> C# OOP Basics </a> | <a href="https://softuni.bg/certificates/details/21638/e39c11ae"> Link</a> |
-|<a href="https://softuni.bg/courses/csharp-oop-advanced-high-quality-code"> C# OOP Advanced</a> | <a href="https://softuni.bg/certificates/details/23377/34ce688d"> Link</a> |
-|<a href="https://softuni.bg/trainings/1747/databases-basics-mssql-server-september-2017/internal"> Databases Basics - MS SQL Server </a> | <a href="https://softuni.bg/certificates/details/23901/477ecc1a"> Link</a> |
-|<a href="https://softuni.bg/courses/databases-advanced-entity-framework"> Databases Advanced - Entity Framework </a> | <a href="https://softuni.bg/certificates/details/49703/217cf00f"> Link</a> |
-|<a href="https://softuni.bg/trainings/1850/js-fundamentals-january-2018"> JavaScript Fundamentals </a> | <a href="https://softuni.bg/certificates/details/51647/9570106f"> Link</a> |
-|<a href="https://softuni.bg/trainings/3212/java-fundamentals-january-2021"> Programming Fundamentals with Java - януари 2021 </a> | <a href="https://softuni.bg/certificates/details/103343/2ade675f"> CERTIFICATE</a> |
-|<a href="https://softuni.bg/trainings/3399/programming-basics-with-java-may-2021"> Programming Basics with Java - септември 2020 </a> | <a href="https://softuni.bg/certificates/details/89470/79c01fcc"> HONORABLE MENTION</a> |
+|<a href="https://softuni.bg/trainings/4236/spring-advanced-october-2023"> Spring Advanced - October 2023  </a> | <a href="https://softuni.bg/certificates/details/197639/ccbb0b8f"> CERTIFICATE</a> |
+|<a href="https://softuni.bg/trainings/4235/spring-fundamentals-september-2023"> Spring Fundamentals - September 2023 </a> | <a href="https://softuni.bg/certificates/details/191463/cd43ad55"> CERTIFICATE</a> |
+|<a href="https://softuni.bg/trainings/3592/spring-data-february-2022"> Spring Data - February 2022 </a> | <a href="https://softuni.bg/certificates/details/132500/d1869b23"> CERTIFICATE</a> |
+|<a href="https://softuni.bg/trainings/3602/mysql-january-2022"> MySQL - January 2022 </a> | <a href="https://softuni.bg/certificates/details/123452/a1fe7505"> CERTIFICATE</a> |
+|<a href="https://softuni.bg/trainings/3346/java-oop-june-2021"> Java OOP - June 2021 </a> | <a href="https://softuni.bg/certificates/details/110674/d7988d71"> CERTIFICATE</a> |
+|<a href="https://softuni.bg/trainings/3345/java-advanced-may-2021"> Java Advanced - May 2021  </a> | <a href="https://softuni.bg/certificates/details/112308/4a1568a5"> CERTIFICATE</a> |
+|<a href="https://softuni.bg/trainings/3212/java-fundamentals-january-2021"> Programming Fundamentals with Java - Jenuary 2021 </a> | <a href="https://softuni.bg/certificates/details/103343/2ade675f"> CERTIFICATE</a> |
+|<a href="https://softuni.bg/trainings/3399/programming-basics-with-java-may-2021"> Programming Basics with Java - September 2020 </a> | <a href="https://softuni.bg/certificates/details/89470/79c01fcc"> HONORABLE MENTION</a> |
 
